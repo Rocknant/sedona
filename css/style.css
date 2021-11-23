@@ -116,6 +116,7 @@
         color: #FFFFFF;
         padding-bottom: 75px;
 }
+/*Жилище*/
 .Lodging {
        max-width: 400px;
        background: rgba(131, 179, 211, 0.12);
@@ -130,5 +131,16 @@
         text-transform: uppercase;
         color: #000000;
 }
-/*закночил на жилище**/
+.Lodging p {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #333333;
+}
+
+
+
+
 
