@@ -203,8 +203,47 @@
 .second_block {
         display: flex;
 }
-
-
+/*third_block-devil's_bridge*/
+.devils_bridge {
+        display: flex;
+}
+.photo_devils_bridge {
+        max-width: 800px;
+        width: 100%;
+}       
+.devil_bridge_text {
+        background-color: #83B3D3;
+        max-width: 400px;
+        width: 100%;
+        
+}
+.devil_bridge_text h3 {
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        padding: 90px 90px 25px 90px;
+}
+.devil_bridge_text h4 {
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        padding-bottom: 25px;
+}
+.devil_bridge_text p {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #FFFFFF;
+        padding-bottom: 75px;
+}
+/*end_third_block-devil's_bridge*/
 
 
 
