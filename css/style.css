@@ -119,9 +119,9 @@
 /*Жилище*/
 .Lodging {
        max-width: 400px;
+       height: auto;
        background: rgba(131, 179, 211, 0.12);
 }
-
 .Lodging h3 {
         font-style: normal;
         font-weight: bold;
@@ -139,6 +139,8 @@
         text-align: center;
         color: #333333;
 }
+
+
 
 
 
