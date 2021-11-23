@@ -87,6 +87,7 @@
         display: flex;
 }
 .Town_img {
+        display: block;
         max-width: 800px;
         width: 100%;
 }       
@@ -208,6 +209,7 @@
         display: flex;
 }
 .photo_devils_bridge {
+        display: block;
         max-width: 800px;
         width: 100%;
 }       
@@ -245,5 +247,43 @@
 }
 /*end_third_block-devil's_bridge*/
 
+/*fourth_block-more_advantage*/
+.more_advantage_block {
+        display: flex;
+}
+.more_advantage_block div:nth-child(2n+1) {
+        background: rgba(131, 179, 211, 0.12);
+}
 
-
+.more_advantage {
+        background: rgba(131, 179, 211, 0.2);
+        max-width: 400px;
+        width: 100%;
+}
+.more_advantage h3 {
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #000000;
+        padding: 90px 90px 25px 90px;
+}
+.more_advantage h4 {
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #000000;
+        padding-bottom: 25px;
+}
+.more_advantage p {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #000000;
+        padding-bottom: 75px;
+}
+/*end_fourth_block-more_advantage*/
